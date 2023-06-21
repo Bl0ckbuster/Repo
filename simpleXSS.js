@@ -1,0 +1,1 @@
+alert("Secure Ideas XSS!!");
